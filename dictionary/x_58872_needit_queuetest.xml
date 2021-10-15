@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="QueueTest" max_length="40" name="x_58872_needit_queuetest" type="collection">
+        <element label="col1" max_length="255" name="col1" type="string_full_utf8"/>
+    </element>
+</database>
